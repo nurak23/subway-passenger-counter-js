@@ -21,6 +21,12 @@ body {
     font-size:25px;
     font-weight: 500;
   }
+
+  .topcorner{
+    position:absolute;
+    top: 10px;;
+    right: 10px;;
+   }
   
   button {
     border:  none;
@@ -39,4 +45,8 @@ body {
   
   #save-btn{
     background:darkgreen;
+  }
+
+#reset-btn{
+    background:rgb(21, 2, 44);
   }
